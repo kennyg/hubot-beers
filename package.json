@@ -2,18 +2,18 @@
   "name": "hubot-beers",
   "description": "A hubot script that hands out the beers",
   "version": "0.0.0",
-  "author": "Kenny Gatdula <kenny.gatdula@manheim.com>",
+  "author": "Kenny Gatdula <kennygatdula@gmail.com>",
   "license": "MIT",
 
   "keywords": ["hubot","hubot-scripts","beers"],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-beers.git"
+    "url": "git@github.com:kennyg/hubot-beers.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-beers/issues"
+    "url": "https://github.com/kennyg/hubot-beers/issues"
   },
 
   "dependencies": {

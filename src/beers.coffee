@@ -17,9 +17,6 @@
 # Author:
 #   Kenny Gatdula
 #
-# Thanks:
-#   brettlangdon
-#
 
 beers = {}
 
